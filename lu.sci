@@ -59,5 +59,5 @@ b= [17;17;21;0;3];
 disp(x)
 //disp(M)
 //disp(P)
-
+// aniadi esta en la rama rama pero hare commit en la maestra
 
