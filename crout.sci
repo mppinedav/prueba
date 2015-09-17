@@ -71,9 +71,10 @@ A=[1,0,-3,0,5;
    2,2, 0,0,-5;
    0,0,-1,2,-1;
    1,1, 0,0,0];
-
 b= [17;17;21;0;3];
 [L,U]=crout(A)
 d = solve_d(L,b);
 x= solve_x(U,d);
 disp(x)
+// aniadi esta linea en la rama'
+
